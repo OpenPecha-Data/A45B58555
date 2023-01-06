@@ -1,0 +1,19 @@
+id: A45B58555
+title: Aspiration Prayer
+type: translation
+pechas:
+- I41915616
+- I3BA5ADAA
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:54:48.299921
+  last_modified_at: 2023-01-04 11:54:48.299927
+  collections:
+  - Fourth Dodrupchen Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I41915616/4984: 17AA
+  I3BA5ADAA/0C86: 17AA
